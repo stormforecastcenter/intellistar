@@ -1,5 +1,5 @@
 window.CONFIG = {
-  crawl: `It seems that you didn't specify a crawl message. If you don't want a crawl message, push the [space] key when entering a crawl message.`,
+  crawl: ` `,
   greeting: 'Here is your local weather.',
   language: 'en-US', // Supported in TWC API
   countryCode: 'US', // Supported in TWC API (for postal key)
