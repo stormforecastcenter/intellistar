@@ -1,5 +1,5 @@
 window.CONFIG = {
-  crawl: `<b></b>`,
+  crawl: ` `,
   greeting: 'Here is your local weather.',
   language: 'en-US', // Supported in TWC API
   countryCode: 'US', // Supported in TWC API (for postal key)
